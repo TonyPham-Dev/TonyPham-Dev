@@ -1,16 +1,28 @@
 ### Hi there 👋
 
 <!--
-**TonyPham-Dev/TonyPham-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TonPham-Dev/TonyPham-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- BLOG-POST-LIST:START -->
+<h1 align="center">
+  <b>Tony Pham</b>
+</h1>
 
-Here are some ideas to get you started:
+Hey! I'm TonyPham, a student currently living in Ha Noi, Viet Nam. I'm Nodejs Developer, i have 1 year experience with Nodejs programming work and some other programming languages for example JS, Reactjs, Typescript, Flutter,...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+```python
+const profile = {
+  name: "Pham Cong",
+  age: 22,
+  address: "Ha Noi",
+  currentJob: "Nodejs Developer"
+}
+```
+
+------
+
+Credit: [Tony Pham](https://github.com/TonyPham-Dev)
+
+Last Edited on: 11/08/2022
+<!-- BLOG-POST-LIST:END -->
