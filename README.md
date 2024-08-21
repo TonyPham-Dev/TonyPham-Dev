@@ -7,7 +7,7 @@
   <b>Tony Pham</b>
 </h1>
 
-Hey! I'm Tony Pham, I'm Nodejs Developer, i have 2 year experience with Nodejs programming work and some other programming languages for example JS, Reactjs, Typescript, Flutter,...
+Hey! I'm Tony Pham, I'm Nodejs Developer, i have 4 year experience with Nodejs programming work and some other programming languages for example JS, NestJs, Reactjs, Typescript, Flutter, Aws,...
 
 <br>
 
